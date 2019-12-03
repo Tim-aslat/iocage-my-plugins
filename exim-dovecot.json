@@ -1,6 +1,6 @@
 {
   "name": "exim-dovecot",
-  "release": "11.2-RELEASE",
+  "release": "master",
   "artifact": "https://github.com/Tim-aslat/iocage-plugin-exim-dovecot.git",
   "properties": {
 	"allow_raw_sockets":"1",
