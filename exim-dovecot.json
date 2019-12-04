@@ -1,6 +1,6 @@
 {
   "name": "exim-dovecot",
-  "release": "master",
+  "release": "11.2-RELEASE",
   "artifact": "https://github.com/Tim-aslat/iocage-plugin-exim-dovecot.git",
   "properties": {
 	"allow_raw_sockets":"1",
@@ -9,7 +9,9 @@
   "pkgs": [
 	"mail/exim",
 	"mail/dovecot",
-	"mail/dovecot-pigeonhole"
+	"mail/dovecot-pigeonhole",
+	"lang/php73",
+	"lang/php73-extensions"
 	  ],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
