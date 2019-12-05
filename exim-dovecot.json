@@ -10,8 +10,7 @@
 	"mail/exim",
 	"mail/dovecot",
 	"mail/dovecot-pigeonhole",
-	"lang/php73",
-	"lang/php73-extensions"
+	"sysutils/busybox"
 	  ],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
