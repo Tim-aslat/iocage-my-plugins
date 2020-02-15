@@ -8,7 +8,7 @@
 	  },
   "pkgs": [
 	"shells/bash-static",
-	"www/curl"
+	"ftp/curl"
 	  ],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
