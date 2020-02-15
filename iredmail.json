@@ -7,7 +7,8 @@
 	"boot":"on"
 	  },
   "pkgs": [
-	"shells/bash-static"
+	"shells/bash-static",
+	"www/curl"
 	  ],
   "packagesite": "http://pkg.FreeBSD.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
